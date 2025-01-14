@@ -1,0 +1,32 @@
+.hero {
+  background-image: url("../assets/BG.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 895px;
+  padding-top: 175px;
+}
+
+.hero__content {
+
+}
+
+.hero__title {
+  margin: 0;
+  font-size: 65px;
+  font-weight: 700;
+  color: #01996D;
+  margin-bottom: 22px;
+  max-width: 383px;
+}
+
+.desc {
+  margin-bottom: 44px;
+  max-width: 420px;
+}
+
+.hero .green-button{
+  width: 227;
+  height: 65px;
+  border-radius: 3px;
+}
