@@ -1,0 +1,34 @@
+.steps {
+  padding-top: 170px;
+  padding-bottom: 100px;
+}
+
+.steps__topside {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 100px;
+}
+
+.topside-left {
+  p {
+    font-size: 24px;
+    font-weight: 600;
+    color: #424242;
+    margin-bottom: 10px;
+  }
+  h2 {
+    color: #01996d;
+    font-size: 50px;
+    font-weight: 700;
+    max-width: 504px;
+  }
+}
+
+.topside-right {
+  max-width: 641px;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 500;
+}
